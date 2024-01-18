@@ -3,6 +3,8 @@
 This is a solution for the exam 06 of the 42 school.
 I used many different solutions of other people that are incorporated here.
 
+> This is the shortest version I have seen so far that is still readable. In theory, you can wrap all the } brackets in one line, but that is unreadable.
+
 It is heavily based on this [version](https://github.com/gtd9511/42seoul/tree/master/cursus/Rank_06/exam_rank_06/exam06), but in general more readable (for me).
 
 I passed with this exact version on 18. January 2024.
