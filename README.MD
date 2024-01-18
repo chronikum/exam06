@@ -13,7 +13,7 @@ I passed with this exact version on 18. January 2024.
 - Test arrival of clients
 - Test termination of clients
 - Test multiple clients
-- Pro Tip: Know your solution letter by letter, remember the first 5 digits of the hash of the file and hash it again to see if it matches. This way you can be sure that you have not written anything wrong.
+- Pro Tip: Know your solution letter by letter, remember the first 5 digits of the hash of the file and hash it again to see if it matches. This way you can be sure that you have not written anything wrong. (the md5 command is available in the exam)
 
 Good luck and happy coding!
 
