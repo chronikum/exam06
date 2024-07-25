@@ -36,7 +36,7 @@ int main(int argc, char **argv)
     socklen_t len;
 
     serverAddr.sin_family = AF_INET;
-	serverAddr.sin_addr.s_addr = htonl(2130706433);
+	serverAddr.sin_addr.s_addr = htonl(INADDR_LOOPBACK);
 	serverAddr.sin_port = htons(atoi(argv[1]));
 
     if (serverSocket < 0)

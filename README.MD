@@ -8,6 +8,15 @@ I used many different solutions of other people that are incorporated here.
 It is heavily based on this [version](https://github.com/gtd9511/42seoul/tree/master/cursus/Rank_06/exam_rank_06/exam06), but in general more readable (for me).
 
 I passed with this exact version on 18. January 2024.
+Addendum: Still valid in July 2024.
+
+### A tip to understand the code and to reasure yourself during the exam:
+
+Use the man pages. Every function has a man page you can use to understand them better.
+Some useful man pages:
+- man 4 inet
+- man 2 select
+- man 2 send
 
 ### A few tips to validate the code you have written when you are in the exam:
 
